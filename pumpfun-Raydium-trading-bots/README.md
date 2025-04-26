@@ -50,7 +50,3 @@
 
 ### Note
   Always ensure you comply with the terms of service of the blockchain networks you're interacting with. Trading involves risk; please trade responsibly.
-
-### Contact INFO
-
-    https://t.me/KratostesBoom
